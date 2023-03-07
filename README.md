@@ -1,6 +1,6 @@
 # SDC Projects
 ## Table of contents
-* [Prerequisites](https://github.com/adijams01/SDC_Projects/edit/main/README.md#prerequisites)
+* [Prerequisites](https://github.com/adijams01/SDC_Projects#prerequisites)
 1. [Lane Detection](https://github.com/adijams01/SDC_Projects/edit/main/README.md#project-1-lane-detection-using-opencv)
 
 ## Prerequisites
