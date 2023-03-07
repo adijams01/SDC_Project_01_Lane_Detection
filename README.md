@@ -1,8 +1,39 @@
 # SDC Projects
 ## Table of contents
-1 [Lane Detection](https://github.com/adijams01/SDC_Projects/edit/main/README.md#project-1-lane-detection-using-opencv)
+* [Prerequisites](https://github.com/adijams01/SDC_Projects/edit/main/README.md#prerequisites)
+1. [Lane Detection](https://github.com/adijams01/SDC_Projects/edit/main/README.md#project-1-lane-detection-using-opencv)
+
+## Prerequisites
+Python 3.x
+
+NumPy
+
+Matplotlib
+
+opencv
+
+Jupyter Notebook (optional:skip below steps and run it in collab)
+
+Jupyter-Lab(For some projects it is better to run on lab than collab)
+
+You can install all the required Python packages by running the following command:
+
+Copy code
+```
+pip install opencv-python
+```
+Usage
+Clone the repository:
+bash
+Copy code
+```
+https://github.com/adijams01/SDC_Projects.git
+```
 
 ## Project 1: Lane detection using opencv
+
+open this [notebook](https://github.com/adijams01/SDC_Projects/blob/main/SDC_Project_01_Lane_Detection/Lane_Detection.ipynb) and start running the cells
+
 Results
 
 <img width="581" alt="Screenshot 2023-03-07 195334" src="https://user-images.githubusercontent.com/92617405/223450333-8760514f-2c9c-48a8-b552-1e2e690f5206.png">
