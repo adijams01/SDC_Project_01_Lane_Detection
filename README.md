@@ -11,6 +11,8 @@ NumPy
 
 Matplotlib
 
+Tensorflow
+
 opencv
 
 Jupyter Notebook (optional:skip below steps and run it in collab)
