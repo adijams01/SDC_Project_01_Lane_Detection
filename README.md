@@ -1,6 +1,7 @@
 # SDC Projects
 ## Table of contents
 * [Prerequisites](https://github.com/adijams01/SDC_Projects#prerequisites)
+* VAP projects
 1. [Lane Detection](https://github.com/adijams01/SDC_Projects/blob/main/SDC_Project_01_Lane_Detection/Lane_Detection.ipynb)
 2. [Traffic Sign Detection](https://github.com/adijams01/SDC_Projects/blob/main/SDC_Project_02_Traffic_sign_Classification/TrafficSignClassification.ipynb)
 
