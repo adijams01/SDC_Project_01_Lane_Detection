@@ -4,6 +4,8 @@
 1. [Lane Detection](https://github.com/adijams01/SDC_Projects#project-1-lane-detection-using-opencv)
 2. [Traffic Sign Detection](https://github.com/adijams01/SDC_Projects#project-2-traffic-sign-classification)
 
+* Internship projects
+1. [BinaryClassification_Adults]()
 ## Prerequisites
 Python 3.x
 
