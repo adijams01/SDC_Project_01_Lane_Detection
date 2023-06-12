@@ -5,7 +5,7 @@
 2. [Traffic Sign Detection](https://github.com/adijams01/SDC_Projects/blob/main/SDC_Project_02_Traffic_sign_Classification/TrafficSignClassification.ipynb)
 
 * Internship projects
-1. [BinaryClassification_Adults](https://github.com/adijams01/SDC_Projects/tree/main/Internship/project_1)
+1. [BinaryClassification_Adults](https://github.com/adijams01/SDC_Projects/blob/main/Internship/project_1/BinaryClassification_Adults.ipynb)
 ## Prerequisites
 Python 3.x
 
