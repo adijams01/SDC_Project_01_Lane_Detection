@@ -1,11 +1,11 @@
 # SDC Projects
 ## Table of contents
 * [Prerequisites](https://github.com/adijams01/SDC_Projects#prerequisites)
-1. [Lane Detection](https://github.com/adijams01/SDC_Projects#project-1-lane-detection-using-opencv)
-2. [Traffic Sign Detection](https://github.com/adijams01/SDC_Projects#project-2-traffic-sign-classification)
+1. [Lane Detection](https://github.com/adijams01/SDC_Projects/blob/main/SDC_Project_01_Lane_Detection/Lane_Detection.ipynb)
+2. [Traffic Sign Detection](https://github.com/adijams01/SDC_Projects/blob/main/SDC_Project_02_Traffic_sign_Classification/TrafficSignClassification.ipynb)
 
 * Internship projects
-1. [BinaryClassification_Adults]()
+1. [BinaryClassification_Adults](https://github.com/adijams01/SDC_Projects/tree/main/Internship/project_1)
 ## Prerequisites
 Python 3.x
 
