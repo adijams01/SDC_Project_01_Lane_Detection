@@ -9,6 +9,7 @@
 1. [BinaryClassification_Adults](https://github.com/adijams01/SDC_Projects/blob/main/Internship/project_1/BinaryClassification_Adults.ipynb)
 2. [Regression_Diamonds](https://github.com/adijams01/SDC_Projects/tree/main/Internship/project_2)
 3. [CNN_and_TransferLearning_DogBreed](https://github.com/adijams01/SDC_Projects/tree/main/Internship/project_3)
+4. [Sentiment Analysis](https://github.com/adijams01/SDC_Projects/tree/main/Internship/project_4)
 ## Prerequisites
 Python 3.x
 
