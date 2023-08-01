@@ -4,6 +4,7 @@
 * VAP projects
 1. [Lane Detection](https://github.com/adijams01/SDC_Projects/blob/main/SDC_Project_01_Lane_Detection/Lane_Detection.ipynb)
 2. [Traffic Sign Detection](https://github.com/adijams01/SDC_Projects/blob/main/SDC_Project_02_Traffic_sign_Classification/TrafficSignClassification.ipynb)
+3. [Behavioral cloning](https://github.com/adijams01/SDC_Projects/tree/main/SDC_Project_03_Behavioral_Cloning)
 
 * Internship projects
 1. [BinaryClassification_Adults](https://github.com/adijams01/SDC_Projects/blob/main/Internship/project_1/BinaryClassification_Adults.ipynb)
